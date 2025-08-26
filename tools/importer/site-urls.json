@@ -1,0 +1,630 @@
+{
+  "originUrl": "https://www.pictet.com",
+  "aborted": false,
+  "lastCrawled": "https://www.pictet.com/",
+  "urls": [
+    {
+      "url": "https://www.pictet.com/bs/en",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en",
+      "id": "feb214757ce4cba2b409b8122ab14bb6adf2a48d"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights",
+      "id": "1606e38dc3161fcec9cc56f857f49da9e4af1b01"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am",
+      "id": "1dd77dbab5aef02cb0e20affb21d60ab354087af"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/annual-outlook-for-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/annual-outlook-for-2024",
+      "id": "600c4a3b9da4724fd1d91d51364ea9e2e28dfd03"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/barometer--neutralising-risk",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/barometer-neutralising-risk",
+      "id": "bce13a6c22d307514a3b5550b0e1ff4d7df6a85f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/barometer--neutralising-risk/barometer-follow-the-growth",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/barometer-neutralising-risk/barometer-follow-the-growth",
+      "id": "dd275b1592d6edccee1ec42d19641e7b7ac8aa78"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/barometer-dissipating-clouds",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/barometer-dissipating-clouds",
+      "id": "574c1caf8d165c8b2429a438f00a7e425e192bed"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/barometer-follow-the-growth",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/barometer-follow-the-growth",
+      "id": "7c3bda1b58a78d1da4b286a92a4c283e03c8f8b0"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/biodiversity-bonds",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/biodiversity-bonds",
+      "id": "382ab5f89ca00287ad4d57efe4b465fb5fde346f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/bringing-timber-to-the-masses",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/bringing-timber-to-the-masses",
+      "id": "71b9ea2fc436edb2da37ecb5fc12399318227d9c"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/chris-goodall-on-global-warming",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/chris-goodall-on-global-warming",
+      "id": "d3bb547d9dbd62caf8ac74dbe5998da64b01ccb6"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/config",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/config",
+      "id": "8fe8785d42a836037cd096f1a6dcbd7b1ad50a60"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/data-centres-and-security",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/data-centres-and-security",
+      "id": "306c20d34b54e08d4aab8316b0909f5e921b4e69"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/energy-transition-accelerating-change",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/energy-transition-accelerating-change",
+      "id": "e94dbc431eb2f0c086274a1eb4a1d3cf40669438"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/green-steel",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/green-steel",
+      "id": "cf329d67cdba6f14e7bc8d6b5928bfe8477f1bf2"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/microbial-paths-to-a-sustainable-world",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/microbial-paths-to-a-sustainable-world",
+      "id": "34509e14c0c7037f116dddc952ed12bd6e13ebd6"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/proxy-voting",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/proxy-voting",
+      "id": "434f998808001b5d58552356a9a430c2d9898e01"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/reducing-food-environmental-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/reducing-food-environmental-impact",
+      "id": "7370e1294139a63683a4a5985f3e942ebfdb988a"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/risk-of-holding-cash",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/risk-of-holding-cash",
+      "id": "acbbc492f262abb10ce0c65343fa3d3449f4814f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/science-versus-cancer",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/science-versus-cancer",
+      "id": "5d7c661c30b27e02aa68ea5d1a70cffbb34f7ff4"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/sustainable-and-resilient-cities",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/sustainable-and-resilient-cities",
+      "id": "e779810f08b76abe97a7db74508582bf4098e917"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/the-battle-for-green-supremacy",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/the-battle-for-green-supremacy",
+      "id": "604abc5ee6bdb597f9ab3732ff3834087ff3805d"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/trigger-for-global-change",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/trigger-for-global-change",
+      "id": "778ad1c628d513af89807ebffeeb3342d97259fd"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/us-elections-results",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/us-elections-results",
+      "id": "7d38e215de1b9ddedf1ddc62a8bae8a2c1ec857b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/am/use-of-ai-in-architecture",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/am/use-of-ai-in-architecture",
+      "id": "bce2e076e3104e374d8b8bdb1698d75fa10e37c1"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets",
+      "id": "f25e310fe111c77967b13e8394d386d7c6f148eb"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/demography",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/demography",
+      "id": "530a4916303a3d0698ea979c1777962751063bf3"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/empowering-manila-forgotten-communities-better-with-water",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/empowering-manila-forgotten-communities-better-with-water",
+      "id": "752eb1c919516f1a9208332d392cf3c2eaa80fda"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/enterpreneurship",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/enterpreneurship",
+      "id": "b6aaeabbd3bb3d8851a0ffbbf393e1382a208418"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/environment",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/environment",
+      "id": "e5d74076a7491d6b8a120d9ee5a4b22bab9aba4c"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/family-business",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/family-business",
+      "id": "a22bea89f074e17555a49e6972dd6f9bd7671c7c"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/megatrends",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/megatrends",
+      "id": "89f477955ec66d2b7f3fd0674194b4c2d22d5b9c"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/no-water-to-smart-sensors",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/no-water-to-smart-sensors",
+      "id": "df5565d00b9aad4648d8e5c781157dc4ce4f1710"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/responsible-future",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/responsible-future",
+      "id": "bee750cab7c1472133ebd4f9d56350d097333e4f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/society",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/society",
+      "id": "deea28954b7a125a0aa53d3c0b3ff705c01f424a"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/beyond-markets/technology-science",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/beyond-markets/technology-science",
+      "id": "8367c990d7874934bc89e8c8c0fe84984dc693fa"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation",
+      "id": "3a362dcdeb08023389f3e615b51126c8d1ac1d64"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts",
+      "id": "3f1ec742a7fd50b6cbe5649e1f106a5e0e93ff9a"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/african-youth-and-green-economy",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/african-youth-and-green-economy",
+      "id": "da97adff3690e59610e84cdeb78409ebd7642cae"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/artificial-intelligence-existential-threat",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/artificial-intelligence-existential-threat",
+      "id": "016b6e44d57785a9efa9b59a09b3038a56f546ef"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/aviation-technology",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/aviation-technology",
+      "id": "27d3f7a38637b67b517e7fe7a26f4ad05a894c21"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/brave-new-world",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/brave-new-world",
+      "id": "88280a94b75fe837ef4002cebe41c0c6361360cc"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/catalyst-for-change",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/catalyst-for-change",
+      "id": "686881f4ebbfd240a4fe7a86a66eb23709c07284"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/championing-health-innovation",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/championing-health-innovation",
+      "id": "4b2f16f352d56d666e16f264e65e6914519482bb"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/climate-anxiety",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/climate-anxiety",
+      "id": "8335aa5589a4e4998c680747a35b9845f489b186"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/climate-crisis-climate-solutions",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/climate-crisis-climate-solutions",
+      "id": "d1cb1f2400a347abf3256c460f142bcf75f38d7b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/confidence-in-full-bloom",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/confidence-in-full-bloom",
+      "id": "92580f2310874fb6d0e5adc2610f7c08e23a5ceb"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/data-and-privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/data-and-privacy",
+      "id": "47efde211bc82e41243cdd2a7d4bfc785336b7c1"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/emerging-markets-and-climate-change",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/emerging-markets-and-climate-change",
+      "id": "f56cbcfd0f0d43a87b5f82b1b37c45141459069f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/first-impressions",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/first-impressions",
+      "id": "a47732a4ec5fb99158564428f08487f0a9919b6b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/future-food",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/future-food",
+      "id": "9b496b9f46609ed7df653fcc2dbebfd8ec39812b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/future-of-work",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/future-of-work",
+      "id": "78e69192809b6423b97d1aa27a0df8dcd8240178"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/habits",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/habits",
+      "id": "ad1f3a91ab6b7c5e7b3b2ad09e18a179b6aab500"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/impact-revolution",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/impact-revolution",
+      "id": "92bb7e1f4033d58e133a72553c542f44088036cf"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/innovation",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/innovation",
+      "id": "88556c95582feeb5d946c5adf679720fe130fe17"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/intergenerational-wealth-and-wisdom",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/intergenerational-wealth-and-wisdom",
+      "id": "e573674650b000156dd6d5596c740c98c3011c97"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/leadership",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/leadership",
+      "id": "6a86152fd21e1310b05781b23869e7aade96c2c9"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/longer-lifespans",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/longer-lifespans",
+      "id": "d35daf9f4c4b91b4c5edc32fd23f810a9e1ad899"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/mapping-cities",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/mapping-cities",
+      "id": "bc31aafb9c0356d7f98384dbf024dd315faf4dd0"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/metaverse-hype-or-hyperreality",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/metaverse-hype-or-hyperreality",
+      "id": "7b69ea3689710f741f9ae53cdb95baadfb8a33cb"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/pandemic-trauma",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/pandemic-trauma",
+      "id": "93d9b0c429b99e72fdff3cf599bbf87560e85163"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/photography-and-sustainability",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/photography-and-sustainability",
+      "id": "0413e1fe8c9f69604cc9dd87000983320a8c8bfa"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/podcast-nutrition-in-latin-america",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/podcast-nutrition-in-latin-america",
+      "id": "7c319b9f8d462a394fefd8ee2d01753d88868f85"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/podcast-radical-beauty-project",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/podcast-radical-beauty-project",
+      "id": "2a6899c46650c789eac906944785b096c3a84eac"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/regret",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/regret",
+      "id": "eb4db27cba370c2de247297c928997d12b20d1b8"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/resilience-in-uncertain-times",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/resilience-in-uncertain-times",
+      "id": "744672723f931a2c67dd41f185187ca98d35334f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/rise-of-china",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/rise-of-china",
+      "id": "12a77ccd537bb42fbe37fc1fcdfb4cb2c42784fa"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/space",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/space",
+      "id": "a343c4fa7ad101835e7cc06d7b7de00319c8cb33"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/sustainable-fashion",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/sustainable-fashion",
+      "id": "ad6d8e42c17a1dbc8880b1282ee2d5b99b8926d1"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/the-future-of-europe",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/the-future-of-europe",
+      "id": "d32dcbcd85e421227783bb290f15be7092788944"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/vaccinating-world",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/vaccinating-world",
+      "id": "43261d2e20425fcc47bd390fc8e59cdcaa851dbd"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/why-civilizations-collapse",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/why-civilizations-collapse",
+      "id": "05288e11c24c9f0c2345ad34cc8f1e13065ee2cc"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/women-in-business-how-to-win-at-work",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/women-in-business-how-to-win-at-work",
+      "id": "d436eaa288530754a968136f876c3e409b1b81e0"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/podcasts/women-times-change",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/podcasts/women-times-change",
+      "id": "a83e3e13ce236233c91abc93ebe02dc600ca9381"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos",
+      "id": "c8541e56880d226437e7e1810fdd134e35738831"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/ai-powered-learning-platform",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/ai-powered-learning-platform",
+      "id": "ef4353b549d6692e7cae4a8172b7e1175b8991e2"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/ai-tipping-point",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/ai-tipping-point",
+      "id": "81e10373063338af8b9b88c4d287c41d221e45c3"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/are-luxury-brands-timeless",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/are-luxury-brands-timeless",
+      "id": "fc73719036a8f8c8190c6a0c7a1d7abcde6b7d42"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/damming-rivers",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/damming-rivers",
+      "id": "479668c1eb19f8caf7b20d854da5a481667a9239"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/daughter-of-the-sea-why-is-ocean-preservation-vital-to-our-future",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/daughter-of-the-sea-why-is-ocean-preservation-vital-to-our-future",
+      "id": "1f9d85ad65216209798b4d820c5b76225295324f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/does-cloud-technology-drive-innovation",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/does-cloud-technology-drive-innovation",
+      "id": "0554803107ddbb75be90ba6d2a0c3f82a0bc1b4b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/extraterrestrial-technology-change-life-on-earth",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/extraterrestrial-technology-change-life-on-earth",
+      "id": "be0ef8214295f5918dba0dd783fbff86716bd260"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/how-women-win-at-work",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/how-women-win-at-work",
+      "id": "21609b4e665486d13b0c0029a27712f81e07f3e5"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/impact-revolution-reshape-capitalism",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/impact-revolution-reshape-capitalism",
+      "id": "1370cbee66a94399587f6474fbb8f0ae8d07063b"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/making-decisions-for-a-radically-uncertain-future",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/making-decisions-for-a-radically-uncertain-future",
+      "id": "8e3eb414baf0e00c95b78e0b80d060dd46a28e2d"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/metals-key-to-transition-away-from-fossil-fuels",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/metals-key-to-transition-away-from-fossil-fuels",
+      "id": "71768bcd93afd3792aafc6413a63d8fc64467ae4"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/powering-the-future",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/powering-the-future",
+      "id": "0b178d9d87c357dd467b24d3ce933dc2477ade8f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/real-estate-trends-accelerated-by-the-pandemic",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/real-estate-trends-accelerated-by-the-pandemic",
+      "id": "db6b259eaeb45463e8c117ce1dfe36fcd0863008"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/technology-in-clothing",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/technology-in-clothing",
+      "id": "054f8ce6c9a44e72eab4c327df3ee2d49819c829"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/found-in-conversation/videos/user-guide-to-the-future",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/found-in-conversation/videos/user-guide-to-the-future",
+      "id": "30e33fcae5e2c1ab3fed6a1a81e2227eed7e6fe1"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/investing-in-health-and-life-sciences",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/investing-in-health-and-life-sciences",
+      "id": "656ecc4d96dc23d0f82ffb7f97ed33b360fdafc8"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets",
+      "id": "79a098119a8724bb561b8aa6f09b0351b4b1d9b8"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/alternatives",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/alternatives",
+      "id": "b58012d9149509bc3bff8c5098b887989530481f"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/commodities-metals",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/commodities-metals",
+      "id": "95732e7280a00d70e93f2cc374ba6b3f4476199a"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/currencies",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/currencies",
+      "id": "cb6592cc2c5535a77df11e74e09450e821d35426"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/equities",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/equities",
+      "id": "ce17af60143d9503834c20b7a08ddb0cf9cf3700"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/fixed-income",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/fixed-income",
+      "id": "cf612491fc4a005bec04b45623e28ad163f85bf8"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/macroeconomics",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/macroeconomics",
+      "id": "87e8eddf9ce6aeded01f775c6030bf1620ec67a1"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/markets/navigating-asia",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/markets/navigating-asia",
+      "id": "15bd5dcba83d898d68b45269dd58abdf1f71a040"
+    },
+    {
+      "url": "https://www.pictet.com/bs/en/insights/the-long-term-outlook-for-health-and-care",
+      "source": "SITEMAPS",
+      "targetPath": "/bs/en/insights/the-long-term-outlook-for-health-and-care",
+      "id": "43d24a88846ede29a1a215750b9f9a37822e10d0"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.pictet.com/jp/jp.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.pictet.com/jp/jp.sitemap.xml): Error: Status: 404"
+    },
+    {
+      "url": "https://www.pictet.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.pictet.com/sitemap.xml): Error: Status: 404"
+    }
+  ]
+}
